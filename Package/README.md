@@ -1,4 +1,4 @@
-# Be Nice Hive
+# FrizzQOL.BeeNiceHive
 
 | GitHub |
 | --- |
@@ -33,7 +33,7 @@ Install this on the dedicated server and on every client. Use the same `Minutes`
 
 Install with r2modman or the Thunderstore Mod Manager.
 
-To install by hand, copy `BeeNiceHive.dll` into `BepInEx/plugins`.
+To install by hand, copy `FrizzQOL.BeeNiceHive.dll` into `BepInEx/plugins`.
 
 ## Requirements
 

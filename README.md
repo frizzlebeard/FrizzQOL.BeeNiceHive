@@ -1,4 +1,4 @@
-# FrizzQOL Be Nice Hive
+# FrizzQOL.BeeNiceHive
 
 https://github.com/frizzlebeard/FrizzQOL.BeeNiceHive
 
@@ -33,7 +33,7 @@ Install this on the dedicated server and on every client. Use the same `Minutes`
 
 Install with r2modman or the Thunderstore Mod Manager.
 
-To install by hand, copy `BeeNiceHive.dll` into `BepInEx/plugins`.
+To install by hand, copy `FrizzQOL.BeeNiceHive.dll` into `BepInEx/plugins`.
 
 ## Requirements
 
@@ -60,6 +60,6 @@ Cash App: `$FrizzleFry4`
 dotnet build BeeNiceHive.sln -c Release
 ```
 
-The plugin file is `BeeNiceHive.dll`, under the project `bin\Release\net48` folder.
+The plugin file is `FrizzQOL.BeeNiceHive.dll`, under the project `bin\Release\net48` folder.
 
 `Environment.props` stays on your machine. It is listed in `.gitignore`.

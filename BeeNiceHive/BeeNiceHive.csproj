@@ -3,7 +3,7 @@
     <TargetFramework>net48</TargetFramework>
     <LangVersion>latest</LangVersion>
     <Nullable>disable</Nullable>
-    <AssemblyName>BeeNiceHive</AssemblyName>
+    <AssemblyName>FrizzQOL.BeeNiceHive</AssemblyName>
     <RootNamespace>BeeNiceHive</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
