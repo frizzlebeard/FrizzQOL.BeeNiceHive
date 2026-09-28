@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeNiceHive", "BeeNiceHive\BeeNiceHive.csproj", "{A7C3E1D4-5B28-4F60-8C19-2D4A6E7F8091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeNiceHive.Tests", "BeeNiceHive.Tests\BeeNiceHive.Tests.csproj", "{B8D4F2E5-6C39-4071-9D2A-3E5B7F8091A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C3E1D4-5B28-4F60-8C19-2D4A6E7F8091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C3E1D4-5B28-4F60-8C19-2D4A6E7F8091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C3E1D4-5B28-4F60-8C19-2D4A6E7F8091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C3E1D4-5B28-4F60-8C19-2D4A6E7F8091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D4F2E5-6C39-4071-9D2A-3E5B7F8091A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D4F2E5-6C39-4071-9D2A-3E5B7F8091A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D4F2E5-6C39-4071-9D2A-3E5B7F8091A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D4F2E5-6C39-4071-9D2A-3E5B7F8091A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
